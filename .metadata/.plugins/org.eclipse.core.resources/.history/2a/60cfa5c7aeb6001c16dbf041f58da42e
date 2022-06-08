@@ -1,0 +1,13 @@
+package zookeeper;
+
+public class Gorilla extends Mammals {
+
+	public void throwSomething() {
+		
+	
+	}
+	
+	public void eatbanan() {
+		
+	}
+}

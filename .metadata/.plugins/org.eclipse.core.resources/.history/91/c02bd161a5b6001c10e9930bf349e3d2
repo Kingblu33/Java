@@ -1,0 +1,13 @@
+package ProjectOne;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		ProgramTest.log();
+		 String randomstring =System.console().readLine();
+		 System.out.println(randomstring);
+
+	}
+
+}

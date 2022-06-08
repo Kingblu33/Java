@@ -1,0 +1,15 @@
+package zookeeper;
+
+public class ZooKeeperTest {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+		Mammals dog = new Mammals();
+		
+		dog.getEnergy();
+		Gorilla gorilla = new Gorilla();
+		
+		gorilla.throwSomething();
+	}
+
+}

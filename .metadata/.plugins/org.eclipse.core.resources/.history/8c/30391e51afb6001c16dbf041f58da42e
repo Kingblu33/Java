@@ -1,0 +1,17 @@
+package zookeeper;
+
+public class Mammals {
+  private int energyLevel;
+  
+  public Mammals(){
+	  this.energyLevel=100;
+  }
+  
+  public int getEnergy() {
+	  
+	System.out.println(this.energyLevel);  
+	return this.energyLevel;
+  }
+ 
+  
+}

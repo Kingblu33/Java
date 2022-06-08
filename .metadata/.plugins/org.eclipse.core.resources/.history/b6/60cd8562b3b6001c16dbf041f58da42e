@@ -1,0 +1,18 @@
+package zookeeper;
+
+public class Batman extends Mammals{
+	private int batenergy;
+	
+	public Batman(){
+		super.setenergy(300);
+		System.out.println("Created Batman Default Energy is 300");
+
+	}
+	
+	public void fly() {
+		
+	}
+	public void eathumans() {
+		
+	}
+}
